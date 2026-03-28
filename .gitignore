@@ -1,0 +1,11 @@
+# Credenciales - NUNCA subir al repo
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Playwright
+test-results/
+playwright-report/
